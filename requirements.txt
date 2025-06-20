@@ -1,0 +1,6 @@
+pandas
+chardet
+typer
+tqdm
+regex
+ollama

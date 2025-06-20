@@ -1,0 +1,13 @@
+{
+  "science_stems": ["наук", "техн", "досл", "іннов", "освіт"],
+  "categories": {
+    "Physics": "фізик",
+    "Chemistry": "хім(ія|ічн)",
+    "Biology": "біол(ог|.)",
+    "Medicine": "медиц",
+    "Agriculture": "аграр|сільськогосп",
+    "Engineering": "інженер|техніч",
+    "Economics": "економ"
+  },
+  "priority": ["Physics", "Chemistry", "Biology", "Medicine", "Agriculture", "Engineering", "Economics"]
+}
